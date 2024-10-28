@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: Masker;
+    src: url(./assets/FoundersGrotesk-Semibold.ttf);
+}
